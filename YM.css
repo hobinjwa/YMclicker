@@ -1,0 +1,25 @@
+.container {
+
+    text-align: center;
+
+  }
+  h1{
+    text-align: center;
+    color: green;
+    font-size: 400%;
+    margin-bottom: 20px;
+  }
+  #song {
+    margin: 0px;
+    width: 50%;
+    height: 50%;
+  }
+  #hit_text{
+    font-size: 300%;
+    margin: 0px;
+  }
+  #hit_num{
+    font-size: 400%;
+    margin: 0px;
+    color: purple;
+  }
